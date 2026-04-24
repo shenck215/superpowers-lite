@@ -1,0 +1,6 @@
+interface:
+  display_name: "Superpowers Lite"
+  short_description: "按任务复杂度自动切换分析实现与审查流程的轻量工程化开发技能"
+  default_prompt: "使用 $superpowers-lite 处理这个工程任务，并按复杂度选择最轻流程。"
+policy:
+  allow_implicit_invocation: false
